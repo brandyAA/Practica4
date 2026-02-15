@@ -1,1 +1,1 @@
-console.log("Hola Mundo - Integración Continua con GitHub Actions");
+console.log("Hi Mundo - Integración Continua con GitHub Actions");

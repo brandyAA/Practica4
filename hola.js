@@ -1,1 +1,0 @@
-console.log("Hi Mundo - Integración Continua con GitHub Actions");
